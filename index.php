@@ -36,10 +36,10 @@
  </style>
   <ul id="nav">
     <li><a href="index.php">Home</a> </li>
-    <li><a href="services.html">Services</a> </li>
-    <li><a href="rates.html">Rates</a> </li>
-    <li><a href="contact_us.html">Contact Us</a> </li>
-    <li><a href="webmaster.html">Webmaster</a> </li>
+    <li><a href="services.php">Services</a> </li>
+    <li><a href="rates.php">Rates</a> </li>
+    <li><a href="contact_us.php">Contact Us</a> </li>
+    <li><a href="webmaster.php">Webmaster</a> </li>
 </ul>
   
   <?php
